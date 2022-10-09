@@ -10,7 +10,8 @@ function App() {
     target="_blank"
     rel='noreferrer'>
        open-sourced on GitHub
-      </a>
+      </a> and
+      <a href="https://helpful-caramel-ab529a.netlify.app"> hosted on Netlify</a>
     </footer> 
     </div>
   );
